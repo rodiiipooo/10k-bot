@@ -1,0 +1,250 @@
+C:\Users\rceli\PycharmProjects\dbot6\venv\Scripts\python.exe C:\Users\rceli\PycharmProjects\dbot6\10k.py 
+Extracted Item 1 (txt)
+-----------------------
+ITEM 1. BUSINESS 
+
+Overview 
+
+We design, develop, manufacture, sell and lease high-performance
+fully electric vehicles and energy generation and storage systems, and offer services related to our
+products. We generally sell our products directly to customers, and continue to grow our
+customer-facing infrastructure through a global network of vehicle showrooms and service centers,
+Mobile Service, body shops, Supercharger stations and Destination Chargers to accelerate the
+widespread adoption of our products. We emphasize performance, attractive styling and the safety of
+our users and workforce in the design and manufacture of our products and are continuing to develop
+full self-driving technology for improved safety. We also strive to lower the cost of ownership for
+our customers through continuous efforts to reduce manufacturing costs and by offering financial and
+other services tailored to our products. 
+
+Our mission is to accelerate the world&#8217;s transition
+to sustainable energy. We believe that this mission, along with our engineering expertise,
+vertically integrated business model and focus on user experience differentiate us from other
+companies. 
+
+Segment Information 
+
+We operate as two reportable segments: (i) automotive and (ii)
+energy generation and storage. 
+
+The automotive segment includes the design, development,
+manufacturing, sales and leasing of high-performance fully electric vehicles as well as sales of
+automotive regulatory credits. Additionally, the automotive segment also includes services and
+other, which includes sales of used vehicles, non-warranty after-sales vehicle services, body shop
+and parts, paid Supercharging, vehicle insurance revenue and retail merchandise. The energy
+generation and storage segment includes the design, manufacture, installation, sales and leasing of
+solar energy generation and energy storage products and related services and sales of solar energy
+systems incentives. 
+
+Our Products and Services 
+
+Automotive 
+
+We currently manufacture five
+different consumer vehicles &#8211; the Model 3, Y, S, X and Cybertruck. Model 3 is a four-door
+mid-size sedan that we designed for manufacturability with a base price for mass-market appeal.
+Model Y is a compact sport utility vehicle (&#8220;SUV&#8221;) built on the Model 3 platform with
+seating for up to seven adults. Model S is a four-door full-size sedan and Model X is a mid-size SUV
+with seating for up to seven adults. Model S and Model X feature the highest performance
+characteristics and longest ranges that we offer in a sedan and SUV, respectively. In November 2023,
+we entered the consumer pickup truck market with first deliveries of the Cybertruck, a full-size
+electric pickup truck with a stainless steel exterior that has the utility and strength of a truck
+while featuring the speed of a sports car. 
+
+In 2022, we also began early production and deliveries
+of a commercial electric vehicle, the Tesla Semi. We have planned electric vehicles to address a
+-----------------------
+Extracted Item 6 (HTML)
+-----------------------
+C:\Users\rceli\PycharmProjects\dbot6\10k.py:36: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(item_6_html)
+Error processing section 6: No tables found
+Extracted Item 1 (txt)
+-----------------------
+ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS 
+
+The following discussion and analysis should be read in conjunction with the
+consolidated financial statements and the related notes included elsewhere in this Annual Report on
+Form 10-K. For further discussion of our products and services, technology and competitive
+strengths, refer to Item 1- Business. For discussion related to changes in financial condition and
+the results of operations for fiscal year 2022-related items, refer to Part II, Item 7.
+Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations in our
+Annual Report on Form 10-K for fiscal year 2022, which was filed with the Securities and Exchange
+Commission on January 31, 2023. 
+
+Overview and 2023 Highlights 
+
+Our mission is to accelerate the
+world&#8217;s transition to sustainable energy. We design, develop, manufacture, lease and sell
+high-performance fully electric vehicles, solar energy generation systems and energy storage
+products. We also offer maintenance, installation, operation, charging, insurance, financial and
+other services related to our products. Additionally, we are increasingly focused on products and
+services based on artificial intelligence, robotics and automation. 
+
+In 2023, we produced 1,845,985
+consumer vehicles and delivered 1,808,581 consumer vehicles. We are currently focused on increasing
+vehicle production, capacity and delivery capabilities, reducing costs, improving and developing our
+vehicles and battery technologies, vertically integrating and localizing our supply chain, improving
+and further deploying our FSD capabilities, increasing the affordability and efficiency of our
+vehicles, bringing new products to market and expanding our global infrastructure, including our
+service and charging infrastructure. 
+
+In 2023, we deployed 14.72 GWh of energy storage products and
+223 megawatts of solar energy systems. We are currently focused on ramping production of energy
+storage products, improving our Solar Roof installation capability and efficiency, and increasing
+market share of retrofit solar energy systems. 
+
+In 2023, we recognized total revenues of $96.77
+billion, representing an increase of $15.31 billion, compared to the prior year. We continue to ramp
+production, build new manufacturing capacity and expand our operations to enable increased
+deliveries and deployments of our products, and invest in research and development to accelerate our
+AI, software and fleet-based profits for further revenue growth. 
+
+In 2023, our net income
+attributable to common stockholders was $15.00 billion, representing a favorable change of $2.44
+billion, compared to the prior year. This included a one-time non-cash tax benefit of $5.93 billion
+for the release of valuation allowance on certain deferred tax assets. We continue to focus on
+further cost reductions and operational efficiencies while maximizing delivery volumes. 
+
+We ended 2
+-----------------------
+C:\Users\rceli\PycharmProjects\dbot6\10k.py:52: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(item_8_html)
+Extracted Table from Item 8
+-----------------------
+                                                    0  \
+0                                                 NaN   
+1                                                 NaN   
+2                                                 NaN   
+3                                            Revenues   
+4                                    Automotive sales   
+5                       Automotive regulatory credits   
+6                                  Automotive leasing   
+7                           Total automotive revenues   
+8                       Energy generation and storage   
+9                                  Services and other   
+10                                     Total revenues   
+11                                   Cost of revenues   
+12                                   Automotive sales   
+13                                 Automotive leasing   
+14                  Total automotive cost of revenues   
+15                      Energy generation and storage   
+16                                 Services and other   
+17                             Total cost of revenues   
+18                                       Gross profit   
+19                                 Operating expenses   
+20                           Research and development   
+21                Selling, general and administrative   
+22                            Restructuring and other   
+23                           Total operating expenses   
+24                             Income from operations   
+25                                    Interest income   
+26                                   Interest expense   
+27                        Other income (expense), net   
+28                         Income before income taxes   
+29          (Benefit from) provision for income taxes   
+30                                         Net income   
+31  Net (loss) income attributable to noncontrolli...   
+32     Net income attributable to common stockholders   
+33                                                NaN   
+34  Net income per share of common stock attributa...   
+35                                              Basic   
+36                                            Diluted   
+37  Weighted average shares used in computing net ...   
+38                                              Basic   
+39                                            Diluted   
+
+                                                    1  \
+0                                                 NaN   
+1                                                 NaN   
+2                                                 NaN   
+3                                            Revenues   
+4                                    Automotive sales   
+5                       Automotive regulatory credits   
+6                                  Automotive leasing   
+7                           Total automotive revenues   
+8                       Energy generation and storage   
+9                                  Services and other   
+10                                     Total revenues   
+11                                   Cost of revenues   
+12                                   Automotive sales   
+13                                 Automotive leasing   
+14                  Total automotive cost of revenues   
+15                      Energy generation and storage   
+16                                 Services and other   
+17                             Total cost of revenues   
+18                                       Gross profit   
+19                                 Operating expenses   
+20                           Research and development   
+21                Selling, general and administrative   
+22                            Restructuring and other   
+23                           Total operating expenses   
+24                             Income from operations   
+25                                    Interest income   
+26                                   Interest expense   
+27                        Other income (expense), net   
+28                         Income before income taxes   
+29          (Benefit from) provision for income taxes   
+30                                         Net income   
+31  Net (loss) income attributable to noncontrolli...   
+32     Net income attributable to common stockholders   
+33                                                NaN   
+34  Net income per share of common stock attributa...   
+35                                              Basic   
+36                                            Diluted   
+37  Weighted average shares used in computing net ...   
+38                                              Basic   
+39                                            Diluted   
+
+                                                    2                        3  
+0                                                 NaN                      NaN  
+1                                                 NaN  Year Ended December 31,  
+2                                                 NaN                     2023  
+3                                            Revenues                      NaN  
+4                                    Automotive sales                        $  
+5                       Automotive regulatory credits                     1790  
+6                                  Automotive leasing                     2120  
+7                           Total automotive revenues                    82419  
+8                       Energy generation and storage                     6035  
+9                                  Services and other                     8319  
+10                                     Total revenues                    96773  
+11                                   Cost of revenues                      NaN  
+12                                   Automotive sales                    65121  
+13                                 Automotive leasing                     1268  
+14                  Total automotive cost of revenues                    66389  
+15                      Energy generation and storage                     4894  
+16                                 Services and other                     7830  
+17                             Total cost of revenues                    79113  
+18                                       Gross profit                    17660  
+19                                 Operating expenses                      NaN  
+20                           Research and development                     3969  
+21                Selling, general and administrative                     4800  
+22                            Restructuring and other                        —  
+23                           Total operating expenses                     8769  
+24                             Income from operations                     8891  
+25                                    Interest income                     1066  
+26                                   Interest expense                    (156)  
+27                        Other income (expense), net                      172  
+28                         Income before income taxes                     9973  
+29          (Benefit from) provision for income taxes                  (5,001)  
+30                                         Net income                    14974  
+31  Net (loss) income attributable to noncontrolli...                     (23)  
+32     Net income attributable to common stockholders                        $  
+33                                                NaN                      NaN  
+34  Net income per share of common stock attributa...                      NaN  
+35                                              Basic                        $  
+36                                            Diluted                        $  
+37  Weighted average shares used in computing net ...                      NaN  
+38                                              Basic                     3174  
+39                                            Diluted                     3485  
+-----------------------
+Extracted Item 1 (txt)
+-----------------------
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+
+The
+information required by this Item 13 of Form 10-K will be included in our 2024 Proxy Statement and
+is incorporated herein by reference.
+-----------------------
+
+Process finished with exit code 0
