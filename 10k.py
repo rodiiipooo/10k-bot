@@ -73,9 +73,21 @@ def ten_k_review(filing_10_k_url):
                 print('-----------------------')
                 pront(item_1_html[0:3000])
                 print('-----------------------')
+        return item_1_html
         except Exception as e:
             print(f"Error processing section {section}: {e}")
 
-# Replace with actual URL of the 10-K filing
-ten_k_review("https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/tsla-20231231.htm")
+def issue_check(text, search_type)
+  lower(text)
+  problem_phrases = ["going concern"]
+  
+links_list = []
+for link in links_list:
+  # Replace with actual URL of the 10-K filing
+  issue_check(ten_k_review(link))
+  
+  # check for issues
+  
+
+  
 
