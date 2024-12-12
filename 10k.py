@@ -1,5 +1,5 @@
 # Ensure that API_KEY is defined somewhere in your code
-API_KEY = '8e988ca2f115aff8384d839c8bb1b210cb919d6611dbf392358eb515f8bf2c1b'
+API_KEY = ''
 from sec_api import ExtractorApi
 from IPython.display import display, HTML
 import pandas as pd
